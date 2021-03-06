@@ -20,4 +20,6 @@ jobs:
           password: ${{ secrets.DOCKERHUB_TOKEN }}
       -
         name: Build and publish
+        env:
+          REPO: ${{ secrets.REPO }}
         run: make build && make publish
