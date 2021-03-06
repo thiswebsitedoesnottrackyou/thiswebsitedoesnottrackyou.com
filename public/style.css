@@ -35,3 +35,10 @@ hr {
   margin: 4em 0;
   border: solid 1px #eee;
 }
+
+@media (max-width: 33em) {
+  body {
+    padding: 0px 10px;
+    margin-top: 3em;
+  }
+}
