@@ -1,0 +1,37 @@
+body {
+  color: #333;
+	font-family: monospace,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+	font-weight: normal;
+	font-size: 16px;
+	margin: auto;
+	margin-top: 6em;
+	max-width: 33em;
+	padding: 0;
+}
+
+h1 {
+	font-size: 36px;
+	font-weight: normal;
+  line-height: 0.7;
+	margin: 0px 0px 25px 0px;
+}
+a {
+  color: #333;
+}
+
+p {
+	margin-top: 2em;
+}
+
+p {
+  line-height: 1.4;
+}
+
+li {
+  line-height: 1.4;
+}
+
+hr {
+  margin: 4em 0;
+  border: solid 1px #eee;
+}
