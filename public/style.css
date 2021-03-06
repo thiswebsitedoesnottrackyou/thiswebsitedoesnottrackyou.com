@@ -15,16 +15,14 @@ h1 {
   line-height: 0.7;
 	margin: 0px 0px 25px 0px;
 }
-a {
-  color: #333;
-}
-
-p {
-	margin-top: 2em;
-}
 
 p {
   line-height: 1.4;
+  margin-top: 2em;
+}
+
+a {
+  color: #333;
 }
 
 li {
@@ -34,6 +32,10 @@ li {
 hr {
   margin: 4em 0;
   border: solid 1px #eee;
+}
+
+.title {
+  font-weight: bold;
 }
 
 @media (max-width: 33em) {

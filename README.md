@@ -2,7 +2,7 @@
 
 # This website does not track you
 
-The goal of this webring is to display hand-crafted personal websites that welcome and respect a visitor's privacy. 
+This website does not track you is a collection of hand-crafted personal websites that welcome and respect a visitors privacy.
 
 ## Requirements
 
@@ -12,16 +12,16 @@ The goal of this webring is to display hand-crafted personal websites that welco
 - Respect a vistor's privacy
 
 ### Does not
-- No trackers, Google Analytics, etc. 
-- No content or images hosted by social media companies (social buttons, Tweets, Instagram images, etc)
+- Track, fingerprint, or otherwise spy on vistors
+- Load content or images hosted by social media companies (social buttons, Tweets, Instagram images, etc)
 
-If your website is in violation to any of these rules it will be removed from the webring. If you fix the issues, feel free to submit another PR to join back in.
+If your website is in violation of any of these rules it will be removed from the webring. If you fix the issues, feel free to submit another PR to join back in.
 
 ## Join the webring
 ```
 <a href="https://thiswebsitedoesnottrackyou.com" target="_blank">This website does not track you.</a>
 ```
 
-- Add the webring hyperlink to your website html.
-- Add your website to the `./public/index.html` file. Keep your link name short, and don't leave a trailing / in the href attribute.
-- Submit a Pull Request <b>with the location of the webring hyperlink on your site</b>. Pull requests with blank descriptions will be rejected.
+- Add the above hyperlink to your website html.
+- Add your website to the `./public/index.html` file. Keep your link name short.
+- Submit a Pull Request with <b>the location of the webring hyperlink on your website</b>. Pull requests with blank descriptions will be rejected.
