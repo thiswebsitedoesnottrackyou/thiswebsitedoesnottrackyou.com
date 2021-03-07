@@ -15,6 +15,8 @@ This website does not track you is a collection of hand-crafted personal website
 - Track, fingerprint, or otherwise spy on vistors
 - Load content or images hosted by social media companies (social buttons, Tweets, Instagram images, etc)
 
+If your website meets the requirements above but doesn't have enough content, you're still welcome to link to the webring.
+
 If your website is in violation of any of these rules it will be removed from the webring. If you fix the issues, feel free to submit another PR to join back in.
 
 ## Join the webring
