@@ -24,6 +24,6 @@ If your website is in violation of any of these rules it will be removed from th
 <a href="https://thiswebsitedoesnottrackyou.com" target="_blank">This website does not track you.</a>
 ```
 
-- Add the above hyperlink to your website html.
-- Add your website to the `./public/index.html` file. Keep your link name short.
-- Submit a Pull Request with <b>the location of the webring hyperlink on your website</b>. Pull requests with blank descriptions will be rejected.
+1. Add the above hyperlink to your website html.
+2. Add your website to the `./public/index.html` file. Keep your link name short.
+3. Submit a Pull Request with <b>the location of the webring hyperlink on your website</b>. Pull requests with blank descriptions will be rejected.
