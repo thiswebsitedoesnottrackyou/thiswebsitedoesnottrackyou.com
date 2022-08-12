@@ -2,28 +2,22 @@
 
 # This website does not track you
 
-This website does not track you is a collection of hand-crafted personal websites that welcome and respect a visitors privacy.
+This website does not track you is a celebration of websites that welcome and respect a visitor's privacy.
 
-## Requirements
+## Join Us 
 
-### Does
-- Have at least 10 pages of content and an about page. 
-- Have a custom domain name, we do not accept github.io subdomains.
-- Respect a vistor's privacy
+- Do you run a website that respects a vistor's privacy? 
+- That **does not**  track, fingerprint, or otherwise spy on vistors?
+- And **does not** load content or images hosted by social media companies (social buttons, Tweets, Instagram images, etc)?
 
-### Does not
-- Track, fingerprint, or otherwise spy on vistors
-- Load content or images hosted by social media companies (social buttons, Tweets, Instagram images, etc)
+If so, let your users know by putting this banner on your website:
 
-If your website meets the requirements above but doesn't have enough content, you're still welcome to link to the webring.
+<a href="https://thiswebsitedoesnottrackyou.com/">
+   <img width="402" alt="This website does not track you" src="https://user-images.githubusercontent.com/4248167/184430158-849d4b2c-de43-483f-86fe-0743b23bc40c.png">
+</a>
 
-If your website is in violation of any of these rules it will be removed from the webring. If you fix the issues, feel free to submit another PR to join back in.
-
-## Join the webring
+```html
+<a href="https://thiswebsitedoesnottrackyou.com/">
+   <img width="402" alt="This website does not track you" src="https://user-images.githubusercontent.com/4248167/184430158-849d4b2c-de43-483f-86fe-0743b23bc40c.png">
+</a>
 ```
-<a href="https://thiswebsitedoesnottrackyou.com" target="_blank">This website does not track you.</a>
-```
-
-1. Add the above hyperlink to your website html.
-2. Add your website to the `./public/index.html` file. Keep your link name short.
-3. Submit a Pull Request with <b>the location of the webring hyperlink on your website</b>. Pull requests with blank descriptions will be rejected.
